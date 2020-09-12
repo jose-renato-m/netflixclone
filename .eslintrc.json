@@ -36,6 +36,9 @@
       "prefer-const": "off",
       "react/jsx-indent": "off",
       "react/jsx-one-expression-per-line": "off",
-      "react/self-closing-comp": "off"
+      "react/self-closing-comp": "off",
+      "no-restricted-syntax": "off",
+      "guard-for-in": "off",
+      "jsx-a11y/anchor-is-valid": "off"
     }
 }
