@@ -2,7 +2,7 @@
   <img src="https://ik.imagekit.io/dfw3q47dv0/react-logo-dark-theme_ieaUFH9dQ.png">
 </h1>
 
-<h1>
+<h1 align="center">
   <img src="./public/clonenetflix_01.gif">
 </h1>
 
